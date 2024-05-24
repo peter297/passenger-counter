@@ -1,0 +1,59 @@
+
+
+.center{
+    
+    width: 800px;
+    margin-top: 50px;
+    margin-left: 300px;
+    padding: 50px 50px;
+    max-width: 600px;
+}
+
+h2{
+    color: red;
+    font-size: 50px;
+
+}
+
+h3{
+    
+    padding: 20px 0;
+    font-size: 40px;
+}
+
+
+.center-items{
+    margin: 10px 100px;
+    text-align: center;
+
+}
+
+button{
+   margin: 10px 230px;
+   width: 150px;
+   padding: 10px 30px;
+   background-color: rgb(40, 53, 230);
+   border-radius: 5px;
+   border: none;
+   display: inline-block;
+   cursor: pointer;
+   text-decoration: none;
+}
+
+button:hover{
+    background-color: rgb(115, 98, 209);
+    
+}
+
+#entries{
+    display: inline-block;
+    margin-right: 5px;
+    text-align: center;
+    
+}
+
+#previous{
+    display: inline-block;
+    text-align: center;
+    margin-left: 230px;
+}
